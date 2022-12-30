@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/IcyEazy/IcyEazy-Huddle-landing-page-with-alternating-feature-blocks.git)
+- Live Site URL: [Add live site URL here](https://icyeazy.github.io/IcyEazy-Huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
 
